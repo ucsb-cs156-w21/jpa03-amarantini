@@ -1,0 +1,8 @@
+com/ucsb/demonextjsspringtodoapp/models/GoogleUserProfileTests.class
+com/ucsb/demonextjsspringtodoapp/models/TodoTests.class
+com/ucsb/demonextjsspringtodoapp/controllers/AppControllerTests.class
+com/ucsb/demonextjsspringtodoapp/DemoApplicationTests.class
+com/ucsb/demonextjsspringtodoapp/controllers/TodoControllerTests.class
+com/ucsb/demonextjsspringtodoapp/controllers/ReactControllerTests.class
+com/ucsb/demonextjsspringtodoapp/services/Auth0ServiceTests.class
+com/ucsb/demonextjsspringtodoapp/controllers/TodoControllerTests$1.class

@@ -1,0 +1,9 @@
+com/ucsb/demonextjsspringtodoapp/DemoApplication.class
+com/ucsb/demonextjsspringtodoapp/models/GoogleUserProfile.class
+com/ucsb/demonextjsspringtodoapp/config/SecurityConfig.class
+com/ucsb/demonextjsspringtodoapp/controllers/ReactController.class
+com/ucsb/demonextjsspringtodoapp/repositories/TodoRepository.class
+com/ucsb/demonextjsspringtodoapp/controllers/TodoController.class
+com/ucsb/demonextjsspringtodoapp/controllers/AppController.class
+com/ucsb/demonextjsspringtodoapp/services/Auth0Service.class
+com/ucsb/demonextjsspringtodoapp/models/Todo.class
