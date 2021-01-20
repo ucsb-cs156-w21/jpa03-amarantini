@@ -1,17 +1,6 @@
-# STARTER-lab03
+# jpa03-amarantini
 
-
-* TODO: Change the title of this README 
-  in the text `# STARTER-jpa03` above
-  to match the name of your repo, i. e., `jpa03-yourgithubid`, then delete
-  this TODO item.
-
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-f20/jpa03-cgaucho
-
-Repo: https://ucsb-cs156-f20/STARTER-jpa03
+Repo: https://github.com/ucsb-cs156-w21/jpa03-amarantini
 
 * TODO: Correct the links to app on Heroku below, 
   then delete this TODO.  Replace it with 
